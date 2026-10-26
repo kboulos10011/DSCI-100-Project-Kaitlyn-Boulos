@@ -1,0 +1,2 @@
+print(Hello Notebook)
+silly me, txt files can't code
